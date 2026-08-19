@@ -37,8 +37,8 @@ class CfgMods
 	{
 		dir				= "BS_RaidConnect";
 		name			= "BS_RaidConnect";
-		authorID		= "76561198993179098";
-		author			= "eas1ly";
+		authorID		= "76561197973045520";
+		author			= "BLANKSOFTWARE";
 		type			= "mod";
 		picture			= "";
 		action			= "";
